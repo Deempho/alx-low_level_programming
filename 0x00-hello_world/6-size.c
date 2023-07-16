@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main  - A program that prints the size of various types on the computer it is complied
+ * main - Entry point
  *
- * Return (0)(success)
+ * Description:prints"the size of various types on the computer it is compiled"
+ *
+ * Return: Always (0)(Success)
  */
 int main(void)
 {
