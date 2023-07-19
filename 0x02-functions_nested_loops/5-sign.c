@@ -4,8 +4,9 @@
  *print_sign - checks for alphabetic character.
  *@n:The character to be checked
  *
- * Return:1 if c is lowercase,0 otherwise
+ * Return:1 for positive no,-1 for negative no, zero for everything else
  */
+
 int print_sign(int n)
 
 {
