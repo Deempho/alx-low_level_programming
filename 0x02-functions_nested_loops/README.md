@@ -34,3 +34,11 @@ Prototype: int print_last digit(int);
 
 Prototype: void jack bauer(void);
 You can listen to this soundtrack while coding :)
+9. Write a function that prints the 9 times table, starting with 0.
+
+Prototype: void timestable(void);
+Format: see example
+10. Write a function that adds two integers and returns the result.
+
+Prototype: int add(int, int);
+
