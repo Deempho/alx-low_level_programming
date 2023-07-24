@@ -5,15 +5,14 @@
  *
  * @str:  prints a string.
  *
- * Return: nothing
+ * Return: void
  */
 void _puts(char *str)
 {
-	int string;
 
-	for (string = 0; str[string] != '\0'; string++)
+	for (; *str != '\0'; str++)
 	{
-		_putchar(str[string]);
+	_putchar(*str);
 	}
-	_putchar('\0');
+	_putchar('\n');
 }
