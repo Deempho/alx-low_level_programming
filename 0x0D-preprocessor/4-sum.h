@@ -3,7 +3,7 @@
 /**
  * FILE: 4-sum.h
  *
- * @X: first int input
+ * @x: first int input
  * @y: second in input
  * Desc: sum up x and y
  */
